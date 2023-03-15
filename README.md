@@ -76,7 +76,7 @@
 ### Built With
 
 - [![React][react.js]][react-url]
-- [![Tailwind][https://tailwindcss.com/]][tailwind-url]
+- [![Tailwind][tailwind.css]][tailwind-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +165,7 @@ Project Link: [https://github.com/andyriles/Untitled-UI](https://github.com/andy
 [license-url]: https://github.com/andyriles/Untitled-UI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andrew-efurhievwe
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /src/assets/Icons/untitled-Ui.png
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -182,4 +182,5 @@ Project Link: [https://github.com/andyriles/Untitled-UI](https://github.com/andy
 [bootstrap-url]: https://getbootstrap.com
 [jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [jquery-url]: https://jquery.com
+[tailwind.css]: https://img.shields.io/badge/Tailwind%20CSS-tailwind%20css-blue
 [tailwind-url]: https://tailwindcss.com
