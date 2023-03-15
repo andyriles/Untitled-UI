@@ -29,7 +29,7 @@
 <h3 align="center">Untitled UI</h3>
 
   <p align="center">
-    This is the Vencrue drontend developer test. It is an implementation of the settings page of the Untitled UI app 
+    This is the Vencru drontend developer test. It is an implementation of the settings page of the Untitled UI app 
     <br />
     <a href="https://untitled-ui-iota.vercel.app/">View Demo</a>
     ·
